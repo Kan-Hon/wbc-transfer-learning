@@ -1,3 +1,5 @@
+# Transfer learning of medical images for White Blood Cell classification task.
+
 The objective of this project seeks to evaluate the effectiveness of applying transfer learning to the task of developing a classification system capable of differentiating between five classes of WBC: basophil, eosinophil, lymphocyte, monocyte, and neutrophil. 
 
 Images from the Camelyon16 and pRCC (papillary renal cell carcinoma) datasets as well as additional mask information from WBC dataset will be used to pretrain a ResNet-18 model.
